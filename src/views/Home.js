@@ -32,7 +32,7 @@ const Home = () => {
                             <img src={searchIllus} alt="" width="300"/>
                         </div>
                         <div className="mx-auto text-lg my-auto space-y-4">
-                            <p>Here a few example to search words or kanji.</p>
+                            <p>kkkkkkkkkkkkkkkkkkkkkkkkkkkk.</p>
                             <ul className="list-disc list-inside space-y-1">
                                 <li>Search by English: <Link className="border-dashed border-b-2 border-current hover:text-primary hover:border-primary" to='/search?words="food"'>"food"</Link></li>
                                 <li>Search by Romaji: <Link className="border-dashed border-b-2 border-current hover:text-primary hover:border-primary" to="/search?words=ai">ai</Link></li>
